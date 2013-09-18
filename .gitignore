@@ -1,0 +1,17 @@
+
+.metadata
+bin
+target
+
+.class
+*.zip
+*.jar
+*.gz
+*.bak
+.log
+.idea
+*.iml
+
+classes
+testclasses
+
